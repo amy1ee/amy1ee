@@ -19,7 +19,6 @@ I enjoy solving problems, aiming to become a game developer and a web developer 
 
 - 👨🏽‍💻 I’m currently working as an LQA at Welocalize
 - 🌱 I’m currently learning HTML, CSS, JS, Python, Java, etc..
-- 🤔 I’m looking for help with Data Structures and Algorithms 😭
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: amylee2514@gmail.com
 - 👀 Beside's programming, I enjoy playing games, traveling and going for walks with dogs 🐕
