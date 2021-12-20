@@ -17,7 +17,7 @@ I enjoy solving problems, aiming to become a game developer and a web developer 
 
 **Talking about Personal Stuffs:**
 
-- 👨🏽‍💻 I’m currently working as an LQA at Welocalize
+- 👩‍💻 I’m currently working as an LQA at Welocalize
 - 🌱 I’m currently learning HTML, CSS, JS, Python, Java, etc..
 - 💬 Ask me about anything and everything
 - 📫 How to reach me: amylee2514@gmail.com
