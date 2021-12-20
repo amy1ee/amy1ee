@@ -1,10 +1,10 @@
 Hi there, I'm Amy! 👋
 ---------------------
 
-<a href="https://www.linkedin.com/in/eunsuh-lee-17575a181/">
+<a href="https://www.linkedin.com/in/eunsuh-lee-17575a181/" target="_blank">
   <img align="left" alt="Adarshreddyash LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.instagram.com/abouteslee/">
+<a href="https://www.instagram.com/abouteslee/" target="_blank">
   <img align="left" alt="Adarshreddyash Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br />
